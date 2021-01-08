@@ -62,7 +62,7 @@ a {
 /* Icon Button */
 .icon-button {
   --button-size: calc(var(--nav-size) * 0.5);
-  /* width: var(--button-size); */
+  width: var(--button-size);
   /* height: var(--button-size); */
   /* background-color: #484a4d; */
   /* border-radius: 50%; */
