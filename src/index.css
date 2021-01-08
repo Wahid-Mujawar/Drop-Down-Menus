@@ -61,7 +61,7 @@ a {
 
 /* Icon Button */
 .icon-button {
-  --button-size: calc(var(--nav-size) * 0.5);
+  /* --button-size: calc(var(--nav-size) * 0.5);
   width: var(--button-size);
   height: var(--button-size);
   background-color: #484a4d;
@@ -72,7 +72,7 @@ a {
   align-items: center;
   justify-content: center;
   transition: filter 300ms;
-}
+} */
 
 .icon-button:hover {
   filter: brightness(1.2);
