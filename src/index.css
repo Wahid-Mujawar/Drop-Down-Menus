@@ -71,7 +71,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: filter 300ms;
+  /* transition: filter 300ms; */
 }
 
 .icon-button:hover {
